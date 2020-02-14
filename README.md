@@ -1,7 +1,9 @@
 # How to manage a Project with Issues, etc
 When you're developing a project in a team, and even on your own, you should keep track of the `tasks` you are currently developing, those you're going to work on in the next week and always have in mind which or the phases of development of your part of the project
 
-## Working with Issues, Milestones, Labels, Notifications, etc.
+## (1) Working with Issues, Milestones, Labels, Notifications, etc.
+
+Source: https://guides.github.com/features/issues/
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your project. 
 
