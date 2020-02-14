@@ -34,7 +34,7 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 They provide a flexible way to get people involved to resolve issues effectively. They are part of the text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/writing-on-github#name-and-team-mentions-autocomplete).
 
-## Projects
+## (2) Projects
 
 Source: https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
 
