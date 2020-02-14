@@ -1,2 +1,2 @@
-# skills2020-quick-website-develop
-Process of development of a website - for Balear Skills 2020
+# How to manage a Project with Issues, etc
+When you're developing a project in a team, and even on your own, you should keep track of the ´tasks´. 
