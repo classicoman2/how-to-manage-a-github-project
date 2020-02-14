@@ -25,14 +25,25 @@ Most software projects have a bug tracker of some kind. GitHub’s tracker is ca
 
 Milestones are groups of issues that correspond to a project, feature, or time period. 
 
-People use them in software development to:
-
-* Beta Launch — File bugs that you need to fix before you can launch the beta of your project --> so you don't forget anything
-* October Sprint — File issues that you’d like to work on in a period of time --> so you can focus
+* Sprint — File issues that you’d like to work until an specific deadline --> so you can focus on what's important now
 * etc.
+* Beta Launch — File bugs that you need to fix before you can launch the beta of your project --> so you don't forget anything
 
 ### Notifications, @mentions, and References
 By using @mentions and references inside of Issues, you can notify other GitHub users & teams and cross-connect issues.
 
 They provide a flexible way to get people involved to resolve issues effectively. They are part of the text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/writing-on-github#name-and-team-mentions-autocomplete).
 
+## Projects
+
+Source: https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
+
+You can create a Project to manage the Issues and Tasks, create Notes and follow the completion of the tasks and the whole project in a progress bar.
+
+When you create a project, you can choose between these setups:
+
+* **Basic kanban**: Track your tasks with To do, In progress, and Done columns
+* **Automated kanban**:	Cards automatically move between To do, In progress, and Done columns
+* **Automated kanban with review**:	Cards automatically move between To do, In progress, and Done columns, with additional triggers for pull request review status
+* **Bug triage**:	Triage and prioritize bugs with To do, High priority, Low priority, and Closed columns
+People use them in software development to:
